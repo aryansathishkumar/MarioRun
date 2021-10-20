@@ -1,0 +1,54 @@
+#header
+{
+    width:100%;
+}
+#instructions
+{
+    border-width: 2px;
+    border-color: white;
+    display:inline;
+    font-size: 19px;
+    float:right;
+}
+#mario_jpg
+{
+    width:100%;
+}
+#heading
+{
+    display:inline;
+}
+.play
+{
+    font-size: 20px;
+}
+body
+{
+    background:url("background.jpg");
+}
+.modal-dialog
+{
+    width:90%;
+}
+.int_img
+{
+    width:45%;
+    display: inline-block;
+}
+.modal-content
+{
+    background-color:yellow;
+}
+#footer
+{
+    width:100%;
+    background-color: mediumspringgreen;
+    font-size: 28px;  
+}
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    padding:25px;
+    position:center;
+}
